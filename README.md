@@ -1,4 +1,4 @@
-# EduMazShield
+# MazBasica v1.0
 Arduino UNO trainer shield.
 Source code as included in Ardublock, which is a visual programming language, which will enable students ages 8 and up, marvelous introduction to the world of programming and physical computing.
 /////
